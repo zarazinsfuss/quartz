@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/zarazinsfuss",
       "Wheel of Heaven": "https://www.wheelofheaven.io/",
+      "Cyberparadism Manifesto": "https://github.com/zarazinsfuss/cyberparadism-manifesto",
     },
   }),
 }
