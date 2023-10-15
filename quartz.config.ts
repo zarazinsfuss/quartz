@@ -3,20 +3,20 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "zarazinsfuss\' digital garden",
+    pageTitle: "zarazinsfuss",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "zarazinsfuss.github.io/quartz/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Jost",
+        body: "Jost",
+        code: "Space Mono",
       },
       colors: {
         lightMode: {
@@ -30,13 +30,13 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
+          light: "#282a36",
+          lightgray: "#44475a",
+          gray: "#44475a",
+          darkgray: "#f8f8f2",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#bd93f9",
+          tertiary: "#50fa7b",
           highlight: "rgba(143, 159, 169, 0.15)",
        },
       },
