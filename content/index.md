@@ -16,6 +16,10 @@ aesthetics, ancient astronauts, creationism, cryptography, cults, cyberparadism,
 
 - [Dingir](Etymology/Dingir)
 
+## Obsidian
+
+- [What is a second brain](What-is-a-second-brain)
+
 ## Personality
 
 - [MBTI balanced types](Personality/MBTI-balanced-types) 
