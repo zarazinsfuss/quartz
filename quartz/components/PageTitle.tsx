@@ -13,6 +13,7 @@ function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
 
 PageTitle.css = `
 .page-title {
+  font-family: var(--titleFont);
   margin: 0;
 }
 `
