@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "zarazinsfuss",
+    pageTitle: "::zarazinsfuss",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
+        seal: "Fira Code",
         header: "Jost",
         body: "Jost",
         code: "Space Mono",

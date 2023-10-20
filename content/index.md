@@ -1,8 +1,10 @@
 ---
-title: Welcome to zarazinsfuss' digital garden
+title: Welcome to zarazinsfuss' second brain 🌱 💎 ⛏️
 ---
 
-Welcome to my digital garden—a space where ideas bloom and thoughts intertwine. Explore and enjoy the ever-evolving landscape of my mind. This digital garden is built and maintained with [Quartz](https://github.com/jackyzha0/quartz), an open-source static-site generator converting Obsidian-generated markdown files into functional websites such as this one.
+![head](image_1687431448905_1024_mod.jpg)
+
+Welcome to my second brain—a digital garden where ideas bloom and thoughts intertwine. Explore and enjoy the ever-evolving landscape of this garden. This space is built and maintained with [Quartz](https://github.com/jackyzha0/quartz), an open-source static-site generator converting Obsidian-like markdown files into a functional website such as this one. I highly encourage everyone to grow their own gardens of knowledge.
 
 # Interests
 
