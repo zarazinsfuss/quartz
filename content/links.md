@@ -17,9 +17,8 @@ tags:
 
 ### News
 
-- https://areomagazine.com/
-- https://www.theepochtimes.com/
-- https://thefederalist.com/
+- https://ground.news/
+- https://liveuamap.com/
 - https://worldview.stratfor.com/
 
 ### Tech
@@ -36,6 +35,12 @@ tags:
 - https://sacred-texts.com/
 - https://www.sefaria.org/
 - https://www.wikipedia.org/
+
+### Magazines
+
+- https://areomagazine.com/
+- https://www.theepochtimes.com/
+- https://thefederalist.com/
 
 ### Blogs
 
