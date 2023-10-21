@@ -14,7 +14,7 @@ aesthetics, ancient astronauts, creationism, cryptography, cults, cyberparadism,
 
 ## Cyberparadism
 
-- [The Techno-Optimist Manifesto](Cyberparadism/The Techno-Optimist Manifesto)
+- [The Techno-Optimist Manifesto](Cyberparadism/The-Techno-Optimist-Manifesto)
 
 ## Etymology
 
