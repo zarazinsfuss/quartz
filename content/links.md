@@ -45,3 +45,7 @@ tags:
 ### Kyu
 
 - https://qposts.online/
+
+### Astrology
+
+- https://astrolingua.ru/ENGLISH/mythengl.htm
