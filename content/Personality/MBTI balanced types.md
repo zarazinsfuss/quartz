@@ -1,4 +1,16 @@
-1. **Harmonizer (HI)**:
+---
+title: MBTI balanced types
+draft: false
+tags:
+  - cognitive-functions
+  - mbti
+  - jungian-psych
+  - personal-growth
+---
+
+Balanced types are hypothetical personality types resulting from the convergence of all 16 MBTI types over time. In this concept, each MBTI type develops its cognitive functions to a point where they are used effectively and harmoniously. As a result, there are four balanced types, each with a unique combination of four functions in balance. These balanced types represent individuals with well-rounded and harmonious personalities, showcasing the full spectrum of cognitive functions.
+
+## 1. **Harmonizer (HI)**:
     
     - **Functional Stack**: Fe (Extraverted Feeling), Ni (Introverted Intuition), Se (Extraverted Sensing), Ti (Introverted Thinking)
         
@@ -9,7 +21,8 @@
         1. **Balancer**
         2. **Synergist**
         3. **Mediator**
-2. **Adaptor (AS)**:
+
+## 2. **Adaptor (AS)**:
     
     - **Functional Stack**: Fi (Introverted Feeling), Ne (Extraverted Intuition), Te (Extraverted Thinking), Si (Introverted Sensing)
         
@@ -20,7 +33,8 @@
         1. **Flexer**
         2. **Innovator**
         3. **Versatilist**
-3. **Coordinator (CO)**:
+
+## 3. **Coordinator (CO)**:
     
     - **Functional Stack**: Fe (Extraverted Feeling), Si (Introverted Sensing), Ti (Introverted Thinking), Ne (Extraverted Intuition)
         
@@ -31,7 +45,8 @@
         1. **Organizer**
         2. **Facilitator**
         3. **Tactician**
-4. **Facilitator (FA)**:
+
+## 4. **Facilitator (FA)**:
     
     - **Functional Stack**: Fi (Introverted Feeling), Se (Extraverted Sensing), Te (Extraverted Thinking), Ni (Introverted Intuition)
         
