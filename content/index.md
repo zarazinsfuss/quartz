@@ -12,6 +12,10 @@ aesthetics, ancient astronauts, creationism, cryptography, cults, cyberparadism,
 
 # Index
 
+## Cyberparadism
+
+- [The Techno-Optimist Manifesto](Cyberparadism/The Techno-Optimist Manifesto)
+
 ## Etymology
 
 - [Dingir](Etymology/Dingir)
