@@ -26,4 +26,4 @@ aesthetics, ancient astronauts, creationism, cryptography, cults, cyberparadism,
 
 ## Unix
 
-- [Encrypted portable home dir](Ecrypted-portable-home-dir)
+- [Encrypted portable home dir](Unix/Encrypted-portable-home-dir)

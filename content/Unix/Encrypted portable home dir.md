@@ -1,3 +1,13 @@
+---
+title: Encrypted portable home dir
+draft: false
+tags:
+  - ai-generated
+  - cybersec
+  - thinkpad
+  - void-linux
+---
+
 ## Q
 
 Let's say I have two identical ThinkPad X1 Carbon laptops. On both, I've installed Void Linux. Now one of these two has a more up-to-date /home/my_user directory as I work on it on a daily basis. I want to be able to somehow sync this home dir onto a sd card and pull it out whenever I'm switchting to the second laptop without any losses.

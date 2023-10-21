@@ -1,3 +1,12 @@
+---
+title: Dingir
+draft: false
+tags:
+  - ancient languages
+  - elohim
+  - sumerian
+---
+
 The Sumerogram Dingir (𒀭) symbolizes the sky and heaven in Sumerian cuneiform, representing the celestial realm where the gods were believed to reside.
 
 ## Wiktionary (English)

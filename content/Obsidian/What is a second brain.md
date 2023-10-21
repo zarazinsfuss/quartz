@@ -1,3 +1,12 @@
+---
+title: What is a second brain
+draft: false
+tags:
+  - knowledge base
+  - obsidian
+  - second-brain
+---
+
 ## What is a Second Brain
 
 A second brain, often referred to as a digital or external brain, is a concept that relates to the augmentation of human cognitive abilities through the use of digital tools and technology. This term is often associated with the idea of extending one's memory, organization, and creative thinking capabilities beyond the limits of the human brain itself. It encompasses a range of digital tools, software applications, and techniques that individuals employ to enhance their ability to store, retrieve, and manipulate information.
