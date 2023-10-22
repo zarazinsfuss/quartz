@@ -26,7 +26,8 @@ aesthetics, ancient astronauts, creationism, cryptography, cults, cyberparadism,
 
 ## Personality
 
-- [MBTI balanced types](Personality/MBTI-balanced-types) 
+- [MBTI balanced types](Personality/MBTI-balanced-types)
+- [Personality Hacker: Cognitive function names](Personality/Personality-Hacker:-Cognitive-function-names)
 
 ## Religion
 
