@@ -30,7 +30,7 @@ aesthetics, ancient astronauts, creationism, cryptography, cults, cyberparadism,
 
 ## Religion
 
-- [Attempt #1: Decyphering religion vs. mysticism](Religion/Attempt_#1:_Decyphering_religion_vs._mysticism)
+- [Decyphering religion vs. mysticism](Religion/Decyphering-religion-vs-mysticism)
 
 ## Unix
 

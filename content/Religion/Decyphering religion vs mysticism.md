@@ -1,5 +1,5 @@
 ---
-title: "Attempt #1: Decyphering religion vs. mysticism"
+title: "Decyphering religion vs. mysticism"
 draft: false
 tags:
   - decypher
