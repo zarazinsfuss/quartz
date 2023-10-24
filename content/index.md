@@ -2,7 +2,7 @@
 title: This is zarazinsfuss' second brain 🌱 💎 ⛏️
 ---
 
-[Links](links) [Reading List](reading-list)
+[Link dir](linkdir) [Reading list](reading-list) [Library](library)
 
 ![head](image_1687431448905_1024_mod.jpg)
 

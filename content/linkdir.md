@@ -1,8 +1,10 @@
 ---
-title: Links
+title: Link directory
 draft: false
 tags:
   - awesome
+  - bookmarks
+  - links
 ---
 
 - https://proton.me/
