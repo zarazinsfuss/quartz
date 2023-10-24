@@ -14,6 +14,10 @@ aesthetics, ancient astronauts, creationism, cryptography, cults, cyberparadism,
 
 # Index
 
+## Biblical
+
+- [Mesopotamian genesis accounts](Biblical/Mesopotamian-genesis-accounts)
+
 ## Cyberparadism
 
 - [The Techno-Optimist Manifesto](Cyberparadism/The-Techno-Optimist-Manifesto)

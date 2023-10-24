@@ -49,6 +49,10 @@ tags:
 - https://マリウス.com/
 - https://materialjournal.com/
 
+## Forums
+
+- https://www.allmystery.de/
+
 ### Kyu
 
 - https://qposts.online/
