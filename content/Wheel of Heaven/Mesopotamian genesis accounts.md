@@ -48,7 +48,7 @@ Equivalent:
 
 - Posdeidon, Prometheus (Greek)
 - Azazel (Hebrew: עֲזָאזֵל)
-- [Lucifer](Biblical/Lucifer) (Latin name for Venus. Greek:Phosphorus Φωσφόρος, "light-bringer")
+- [Lucifer](Wheel-of-Heaven/Lucifer) (Latin name for Venus. Greek:Phosphorus Φωσφόρος, "light-bringer")
 
 ### Ninhursag
 

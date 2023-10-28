@@ -15,6 +15,12 @@ tags:
 
 - Peter Zeihan
 
+## Podcast
+
+### Tech
+
+- [On the metal / Oxide](https://oxide.computer/podcasts/on-the-metal)
+
 ## Web
 
 - [Devolution Series](https://substack.com/@patelpatriot)
