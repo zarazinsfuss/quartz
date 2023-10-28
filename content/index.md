@@ -35,4 +35,5 @@ aesthetics, ancient astronauts, creationism, cryptography, cults, cyberparadism,
 
 - [Decyphering religion vs. mysticism](Wheel-of-Heaven/Decyphering-religion-vs-mysticism)
 - [Dingir](Wheel-of-Heaven/Dingir)
+- [Kolob](Wheel-of-Heaven/Kolob)
 - [Mesopotamian genesis accounts](Wheel-of-Heaven/Mesopotamian-genesis-accounts)
