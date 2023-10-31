@@ -10,3 +10,7 @@ tags:
 ## Internet culture
 
 - [neal.fun/internet-artifacts/](https://neal.fun/internet-artifacts/)
+
+## Unix
+
+- [OpenBSD Webzine](https://webzine.puffy.cafe/)

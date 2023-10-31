@@ -25,6 +25,8 @@ tags:
 
 - [Devolution Series](https://substack.com/@patelpatriot)
 
+- [Indiscourse - Break the Echo Chamber](http://indiscourse.com/)
+
 - [The small web is beautiful](https://benhoyt.com/writings/the-small-web-is-beautiful/)
 
 ## Rabbit Holes
