@@ -18,6 +18,10 @@ aesthetics, ancient astronauts, creationism, cryptography, cults, cyberparadism,
 
 - [The Techno-Optimist Manifesto](Cyberparadism/The-Techno-Optimist-Manifesto)
 
+## Lingo
+
+- [汉语 > HSK1](汉语/HSK1)
+
 ## Obsidian
 
 - [What is a second brain](What-is-a-second-brain)
